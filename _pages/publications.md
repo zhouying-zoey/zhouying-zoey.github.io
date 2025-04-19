@@ -9,7 +9,7 @@ author_profile: true
 
 ### >> Journal Papers
 
-* <b>Zhou Ying</b>, Ma, S., Lin, P., Liao, C., Chen, M., %Shih, K. "Eco-friendly synthesized zeolitic imidazolate framework-8 enables one-step cerium recovery from water", _Chemical Engineering Journal_, 2024, 500, 157456.
+* <b>Zhou Ying</b>, Ma, S., Lin, P., Liao, C., Kao, C., Chen, M., Su, M., & Shih, K. "Eco-friendly synthesized zeolitic imidazolate framework-8 enables one-step cerium recovery from water", _Chemical Engineering Journal_, 2024, 500, 157456.
 
 * <b>Zhou Ying</b>, Tang, Y., Liao, C., Su, M. & Shih, K."Recent advances toward structural incorporation for stabilizing heavy metal contaminants: A critical review", _Journal of Hazardous Materials_, 2023, 448, 130977. 
 
@@ -79,9 +79,9 @@ author_profile: true
 
 * <b>Zhou Ying</b>, Shih, K., Liao, C., "Mineralogical Technology to Stabilize Heavy Metals from Waste Electrical and Electronic Equipment", _The 10th Guangdong-Hong Kong-Macao Greater Bay Area Sustainable Development Symposium_, Zhuhai, China, 18 December 2021.
 
-* <b>Zhou Ying</b>, Liao, C., Shih, K., "Combined Fe2O3 and CaCO3 additives to enhance the immobilization of Pb in cathode ray tube funnel glass", _The 17th International Waste Management and Landfill Symposium_, Cagliari, Italy, 30 September  4 October 2019.
+* <b>Zhou Ying</b>, Liao, C., Shih, K., "Combined Fe2O3 and CaCO3 additives to enhance the immobilization of Pb in cathode ray tube funnel glass", _The 17th International Waste Management and Landfill Symposium_, Cagliari, Italy, 30 September - 4 October 2019.
 
-* <b>Zhou Ying</b>, Liao, C., Shih, K., "Combined Fe2O3 and CaCO3 additives to enhance the immobilization of Pb in cathode ray tube funnel glass", _The 3rd Asia Conference on Environment and Sustainable Development_, Singapore, 2 November  4 November 2018.
+* <b>Zhou Ying</b>, Liao, C., Shih, K., "Combined Fe2O3 and CaCO3 additives to enhance the immobilization of Pb in cathode ray tube funnel glass", _The 3rd Asia Conference on Environment and Sustainable Development_, Singapore, 2-4 November 2018.
 
 * <b>周影</b>，程兴，骆海萍，张仁铎，刘广立，"不同结构的生物电化学反应器对四甲基氢氧化铵制备效果的比较"，_中国化学会第十二届水处理大会_，广州，2014年10月9-12日。
 
